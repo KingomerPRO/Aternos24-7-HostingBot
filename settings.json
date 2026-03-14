@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Bot",
   "bot-account": {
     "username": "imgonnacream",
-    "password": "",
+    "password": "Bot2024",
     "type": "offline"
   },
   "server": {
     "ip": "smpIL2026.aternos.me",
     "port": 35949,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "Bot2024"
     },
     "anti-afk": {
       "enabled": true,
